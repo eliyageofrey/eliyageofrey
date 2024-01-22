@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eliyageofrey
-- 👀 I’m interested in Data Science & Software Development
+- 👀 I’m interested in Data Science, Software Development and Cyber Security
 - 🌱 I’m currently learning Cyber Security and Digital Forensics at the University of Dodoma(UDOM) in Tanzania
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: eliyageofrey0909@protonmail.com
