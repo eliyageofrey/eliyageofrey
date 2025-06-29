@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eliyageofrey
 - 👀 I’m interested in Data Science and Software Development
-- 🌱 I’m currently learning Angular 19 and Django REST Framework
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: eliyageofrey0909@protonmail.com
 
